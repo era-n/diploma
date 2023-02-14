@@ -3,7 +3,7 @@ import { AppPage } from './pages/AppPage';
 import { AuthRoute } from './pages/AuthRoute';
 import { ForgotPasswordPage } from './pages/ForgotPasswordPage';
 import { Login } from './pages/Login';
-import { Register } from './pages/register';
+import { Register } from './pages/Register';
 import { ResetPasswordPage } from './pages/ResetPasswordPage';
 // import { LogInPage } from './pages/Login';
 // import { RegisterPage } from './pages/Register';
