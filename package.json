@@ -1,0 +1,12 @@
+{
+	"name": "discord",
+	"version": "1.0.0",
+	"repository": "https://github.com/era-n/diploma",
+	"author": "era-n <raiymkul.01@mail.ru>",
+	"license": "MIT",
+	"scripts": {
+		"dev": "vite --host",
+		"build": "cd client && yarn build",
+    "start": "cd server && yarn start:build"
+	}
+}
